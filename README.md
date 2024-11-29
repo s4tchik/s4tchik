@@ -113,7 +113,7 @@
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
-###
+
 
 <h2 align="center">🌍  I'm based in Russia<br>🖥️ See my portfolio at https://solo.to/sat4ik<br>✉️ You can contact me at ssaturn4ik@mail.ru<br>🚀 I'm currently working on Game<br>🤝  I'm open to collaborating on Game-dev, html-sites, bots for tg or discord<br>⚡ I'm also fond of YouTube, games, that's all you need to know about me</h2>
 
