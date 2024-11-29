@@ -99,7 +99,8 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-  
+  <img src="https://lastfm.freetls.fastly.net/i/u/ar0/5c8d1664742f41d5c1c76308925f0e77.gif" />
+
 </div>
   
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
@@ -246,10 +247,6 @@ When you click on a link it will submit a new issue with the desired move, creat
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-<img src="https://raw.githubusercontent.com/s4tchik/s4tchik/output/snake.svg" alt="Snake animation" />
-
-###
 
 </a>
 
