@@ -6,11 +6,11 @@ About me:
 
 Software developer and designer with experience in various areas of development and design. Proficient in C#, JavaScript, Python, and HTML, enabling the creation of high-quality software solutions and web applications. Skilled in 2D and UI/UX design, focusing on crafting user-friendly and intuitive interfaces. Professionally experienced in video editing with tools like Vegas Pro 20 and Adobe Premiere Pro, delivering high-quality video content. Additionally, highly proficient in Adobe Photoshop 2020 for creating unique graphic materials and image editing. Known for a creative approach, attention to detail, responsibility, and the ability to work effectively both in a team and independently. Dedicated to continuous professional growth and learning new technologies.
 
-* 🌍 I'm based in R
+* 🌍  I'm based in Russia
 * 🖥️ See my portfolio at [This](http://https://solo.to/sat4ik)
 * ✉️ You can contact me at [ssaturn4ik@mail.ru](mailto:ssaturn4ik@mail.ru)
 * 🚀 I'm currently working on [Game](http://https://github.com/s4tchik/GameOfMe)
-* 🤝 I'm open to collaborating on Ga
+* 🤝  I'm open to collaborating on Game-dev, html-sites, bots for tg or discord
 * ⚡ I'm also fond of YouTube, games, that's all you need to know about me
 
 <a href="https://www.twitch.tv/s4tchik" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/s4tchik?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
