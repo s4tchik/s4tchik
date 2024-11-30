@@ -157,7 +157,7 @@ Feel free to reach out for collaboration or if you'd like to discuss potential p
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4tchik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=10&custom_title=My%20status%20Eeeee)" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4tchik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=10&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4tchik&radius=16&theme=modern-lilac&area=true&order=10&custom_title=Activity%20Graph%20:D" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4tchik&radius=16&theme=modern-lilac&area=true&order=1&custom_title=Activity%20Graph%20:D" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
