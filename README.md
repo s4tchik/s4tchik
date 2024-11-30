@@ -2,7 +2,44 @@
 <p align="center"> 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/848216716410895595/CE1AC27991DDA31A764AC1346BDAB6223BD841F2/" height="240" width="370">
 
-<h1 align="center">Hi My name is Maks<br>About me:<br>Software developer and designer with experience in various areas of development and design. Proficient in C#, JavaScript, Python, and HTML, enabling the creation of high-quality software solutions and web applications. Skilled in 2D and UI/UX design, focusing on crafting user-friendly and intuitive interfaces. Professionally experienced in video editing with tools like Vegas Pro 20 and Adobe Premiere Pro, delivering high-quality video content. Additionally, highly proficient in Adobe Photoshop 2020 for creating unique graphic materials and image editing. Known for a creative approach, attention to detail, responsibility, and the ability to work effectively both in a team and independently. Dedicated to continuous professional growth and learning new technologies.</h1>
+<h1 align="center">## 👋 Hi, I’m Maks!  
+
+---
+
+### 📜 About Me:  
+I am a **software developer and designer** with diverse experience across multiple areas of development and design. Below are some key aspects of my expertise:
+
+---
+
+### 🔧 Technical Skills:
+- **Programming Languages:**
+  - Proficient in **C#**, **JavaScript**, **Python**, and **HTML**.
+  - Leveraging these languages to create **high-quality software solutions** and **web applications**.
+
+- **Design Expertise:**
+  - Skilled in **2D design** and **UI/UX design**, focusing on **user-friendly** and **intuitive interfaces**.
+  - Experienced with **Adobe Photoshop 2020** for creating **unique graphic materials** and **image editing**.
+
+- **Video Editing:**
+  - Proficient in **Vegas Pro 20** and **Adobe Premiere Pro**, delivering **high-quality video content**.
+
+---
+
+### 🎨 Core Strengths:
+- **Creative approach** to problem-solving.
+- Strong **attention to detail** ensuring high-quality outcomes.
+- **Responsibility** and dedication to meeting project deadlines.
+- Effective in both **team environments** and **independent work**.
+
+---
+
+### 🚀 Growth and Learning:
+I am committed to **continuous professional development**, staying updated on the latest tools and technologies to enhance my expertise.
+
+--- 
+
+### 📫 Connect with Me:  
+Feel free to reach out for collaboration or if you'd like to discuss potential projects!</h1>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
