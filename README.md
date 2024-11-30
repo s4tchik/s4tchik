@@ -116,7 +116,6 @@
 
 
 <h2 align="center">🌍  I'm based in Russia<br>🖥️ See my portfolio at https://solo.to/sat4ik<br>✉️ You can contact me at ssaturn4ik@mail.ru<br>🚀 I'm currently working on Game<br>🤝  I'm open to collaborating on Game-dev, html-sites, bots for tg or discord<br>⚡ I'm also fond of YouTube, games, that's all you need to know about me</h2>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4tchik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=My%20status%20Eeeee)" height="150" alt="stats graph"  />
