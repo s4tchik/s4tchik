@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I’m Maks!  
 
 ---
-
+ 
 ### 📜 About Me:  
 I am a **software developer and designer** with diverse experience across multiple areas of development and design. Below are some key aspects of my expertise:
 
