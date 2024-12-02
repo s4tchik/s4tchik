@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Ежедневно в полночь
-  workflow_dispatch: # Позволяет запускать вручную
+    - cron: '0 0 * * *'  # Ежедневно в полночь
+  workflow_dispatch:  # Позволяет запускать вручную
 
 jobs:
   update-readme:
@@ -16,7 +16,10 @@ jobs:
     - name: Generate README with updated graphs
       run: |
         echo "Updating README..."
-        # Создайте свой README с обновленными ссылками на графики, если это необходимо
+        # Генерация README с актуальными графиками или обновлениями
+        # Например:
+        # python generate_readme.py  # или другой скрипт, который генерирует README
+        # Здесь можно добавить команду для генерации графиков или статистики, если нужно
 
     - name: Commit and push changes
       run: |
@@ -25,3 +28,8 @@ jobs:
         git add README.md
         git commit -m "Update README with latest stats"
         git push
+      # Ожидаем, что README.md изменился и будет коммититься
+
+    - name: Verify commit
+      run: |
+        git log -n 1  # Проверка последнего коммита, чтобы убедиться, что изменения были внесены
