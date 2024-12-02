@@ -19,16 +19,18 @@ jobs:
         # Генерация README с актуальными графиками или обновлениями
         # Например:
         # python generate_readme.py  # или другой скрипт, который генерирует README
-        # Здесь можно добавить команду для генерации графиков или статистики, если нужно
+
+    - name: Check for changes
+      run: |
+        git diff --exit-code README.md || echo "README.md has changes"
 
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add README.md
-        git commit -m "Update README with latest stats"
-        git push
-      # Ожидаем, что README.md изменился и будет коммититься
+        git diff --quiet || (git commit -m "Update README with latest stats" && git push)
+      # Выполняем коммит только если были изменения
 
     - name: Verify commit
       run: |
