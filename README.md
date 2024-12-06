@@ -2,7 +2,7 @@
 <p align="center"> 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/848216716410895595/CE1AC27991DDA31A764AC1346BDAB6223BD841F2/" height="240" width="370">
 
-<h1 align="center">👋 Hi, I’m Maks! 
+<h1 align="center">👋 Hi, I’m Maks!
 
 --- 
 
