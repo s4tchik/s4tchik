@@ -79,7 +79,7 @@ Feel free to reach out for collaboration or if you'd like to discuss potential p
 
 ###
 
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast --> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
